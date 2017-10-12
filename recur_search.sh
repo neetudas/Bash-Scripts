@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-set -x
+#set -x
 
 #This script will serach a word in file present in all directories and sub-directories provided
 
