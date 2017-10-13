@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+# test
 if [[ $# -ne 1 ]]
 then
 	echo "Usage: $0 : Enter a file to remove repeated lines "
